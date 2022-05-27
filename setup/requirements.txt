@@ -12,3 +12,4 @@ pynput
 numpy
 asyncio
 customtkinter
+regex
