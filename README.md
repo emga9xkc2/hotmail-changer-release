@@ -12,4 +12,4 @@ https://github.com/emga9xkc2/hotmail-changer-release/archive/refs/heads/main.zip
 
 <b>4. Thông tin phiên bản</b>
 
-- v1.3
+- v1.4
